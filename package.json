@@ -1,0 +1,32 @@
+{
+    "name": "faster-game-bot",
+    "version": "1.0.0",
+    "description": "A fast-paced multiplayer quiz game bot for Discord using discord.js v14",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/wickstudio/faster-game-bot.git"
+    },
+    "keywords": [
+      "discord",
+      "bot",
+      "game",
+      "quiz",
+      "discord.js",
+      "multiplayer"
+    ],
+    "author": "Wick Studio",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/wickstudio/faster-game-bot/issues"
+    },
+    "homepage": "https://github.com/wickstudio/faster-game-bot#readme",
+    "dependencies": {
+      "canvas": "^2.11.2",
+      "discord.js": "^14.15.3"
+    }
+  }
+  
